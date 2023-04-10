@@ -32,7 +32,7 @@ Our advisory firm will undertake the following tasks to fulfill Social Buzz's re
 
 
 
-# 🎯 Focus on creating more photo content as it is the most popular content type with 6589 posts, compared to 6245 videos, 6079 GIFs, and 5660 audio posts.
+ 🎯 Focus on creating more photo content as it is the most popular content type with 6589 posts, compared to 6245 videos, 6079 GIFs, and 5660 audio posts.
 
 
 
