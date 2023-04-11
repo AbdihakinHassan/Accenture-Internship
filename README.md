@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Accenture
  
 =======
@@ -44,4 +44,3 @@ Our advisory firm will undertake the following tasks to fulfill Social Buzz's re
 
 
 
->>>>>>> fd0b889c9683639aa36725d4eeac125e8f96e702
